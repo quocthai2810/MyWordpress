@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>My WordPress</title>
+	<title>GTour</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>http://https://quocthai2810.github.io/MyWordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 06 Sep 2022 07:32:25 +0000</lastBuildDate>
+	<description>Where do you want to go?</description>
+	<lastBuildDate>Fri, 16 Sep 2022 10:18:47 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
